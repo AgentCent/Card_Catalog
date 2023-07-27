@@ -1,2 +1,3 @@
 # Card_Catalog
- Card_Catalog for learning
+ Card catalog
+ Картотека
